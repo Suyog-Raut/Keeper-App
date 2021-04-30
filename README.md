@@ -1,2 +1,3 @@
 # Keeper-App
-Created with CodeSandbox
+
+Basic front-end notes app Created with React and CodeSandbox
